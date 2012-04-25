@@ -127,7 +127,7 @@
 
 
                                 	<table cellpadding="0" cellspacing="0" border="0" style="width:207px">
-                                    	<tr><td>&nbsp; &nbsp;<input type=text name="keywords" class="go" value=""></td><td><?php echo tep_image_submit('button_search_prod.gif',' class=\'vam\'')?></td></tr>
+                                    	<tr><td><input type=text name="keywords" class="go" value=""></td><td><?php echo tep_image_submit('button_search_prod.gif',' class=\'vam\'')?></td></tr>
                                     </table></form>
                                 </td>
                                 <td><?php echo tep_image(DIR_WS_IMAGES.'q1.gif')?></td>
